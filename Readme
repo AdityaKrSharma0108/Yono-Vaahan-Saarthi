@@ -1,0 +1,30 @@
+# Real-Time Vehicle Detection using YOLO
+
+A real-time vehicle detection system developed using Python and YOLO for detecting vehicles in images and video.
+
+## Overview
+
+This project uses a YOLO-based object detection model to identify vehicles and display their locations using bounding boxes. It provides a web-based interface for interacting with the vehicle detection system.
+
+## Features
+
+- Real-time vehicle detection
+- YOLO-based object detection
+- Bounding-box visualization
+- Web-based interface
+
+## Technologies Used
+
+- Python
+- YOLO
+- Computer Vision
+- HTML
+- CSS
+- JavaScript
+
+## Results
+
+The system detects vehicles and displays bounding boxes around detected objects.
+
+![Vehicle Detection Result](traffic 4 practical.png)
+![Vehicle Detection Result](traffic 7 proof.png)
