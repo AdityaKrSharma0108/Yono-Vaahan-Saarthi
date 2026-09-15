@@ -27,4 +27,4 @@ This project uses a YOLO-based object detection model to identify vehicles and d
 The system detects vehicles and displays bounding boxes around detected objects.
 
 ![Vehicle Detection Result](traffic 4 practical.png)
-![Vehicle Detection Result](traffic 7 proof.png)
+![Vehicle Detection Result](traffic 7 proof .png)
